@@ -112,6 +112,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 /* ── Navigation Arrows ── */
@@ -229,7 +230,7 @@
 }
 
 .work-image img {
-  width: 650px;
+  width: 100%;
   height: 350px;
   object-fit: contain;
   border-radius: 8px;
