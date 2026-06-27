@@ -1,4 +1,4 @@
-# 🚀 Abdul's 3D Portfolio
+# 🚀 Abdullah's 3D Portfolio
 
 A modern and interactive **3D developer portfolio** built with **React, TypeScript, Three.js, React Three Fiber, GSAP, and Vite**. This portfolio showcases my skills, projects, experience, and contact information through smooth animations, immersive 3D graphics, and a clean responsive design.
 
