@@ -2,6 +2,15 @@
 
 A modern and interactive **3D developer portfolio** built with **React, TypeScript, Three.js, React Three Fiber, GSAP, and Vite**. This portfolio showcases my skills, projects, experience, and contact information through smooth animations, immersive 3D graphics, and a clean responsive design.
 
+## 🌐 Live Demo
+
+🔗 **Portfolio Website:**  
+[https://your-vercel-link.vercel.app](https://abdullah-shabir-modern-portfolio.vercel.app/)
+
+## 📷 Preview
+
+![Portfolio Preview](portfolio.png)
+
 ## ✨ Features
 
 - 🎨 Modern responsive UI
