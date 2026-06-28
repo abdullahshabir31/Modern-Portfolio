@@ -14,7 +14,7 @@ const Contact = () => {
 
             <p>
               <a
-                href="www.linkedin.com/in/abdullah-shabir-a8646a2b9"
+                href="https://www.linkedin.com/in/abdullahshabir31/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
@@ -65,7 +65,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/abdullah-shabir-a8646a2b9"
+              href="https://www.linkedin.com/in/abdullahshabir31/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"

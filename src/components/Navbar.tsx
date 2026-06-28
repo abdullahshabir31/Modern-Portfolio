@@ -66,7 +66,7 @@ const Navbar = () => {
 
         {/* ✅ YOUR LINKEDIN */}
         <a
-          href="https://www.linkedin.com/in/abdullah-shabir-a8646a2b9"
+          href="https://www.linkedin.com/in/abdullahshabir31/"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"
